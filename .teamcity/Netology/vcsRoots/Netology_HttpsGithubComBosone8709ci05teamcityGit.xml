@@ -8,6 +8,7 @@
   <param name="ignoreKnownHosts" value="true" />
   <param name="secure:password" value="credentialsJSON:ccb570bd-1668-49d6-9fee-10d4bde76f1a" />
   <param name="submoduleCheckout" value="CHECKOUT" />
+  <param name="teamcity:branchSpec" value="refs/heads/*" />
   <param name="url" value="https://github.com/bosone87/09-ci-05-teamcity.git" />
   <param name="useAlternates" value="AUTO" />
   <param name="username" value="bosone87" />
