@@ -43,7 +43,6 @@
       </runner>
     </build-runners>
     <vcs-settings>
-      <vcs-entry-ref root-id="Netology_HttpsGithubComAragastmatbExampleTeamcityRefsHeadsMaster" />
       <vcs-entry-ref root-id="Netology_HttpsGithubComBosone8709ci05teamcityGit" />
     </vcs-settings>
     <requirements />
